@@ -1,4 +1,4 @@
-# entity-relationship-diagram-Case-Studies-
+# Entity-relationship-diagram-Case-Studies
 
  These case studies highlight the diverse applications of database management systems in various domains.
  From event management systems for large-scale conventions like NaSCon, to sports leagues like the Pakistan
